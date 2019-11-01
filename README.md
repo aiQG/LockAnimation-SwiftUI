@@ -1,6 +1,6 @@
 #  LockAnimation-SwiftUI
 
-!(gif)[0.gif]
+!(gif)[https://github.com/aiQG/LockAnimation-SwiftUI/blob/master/0.gif]
 
 
 
